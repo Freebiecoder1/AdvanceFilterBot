@@ -13,7 +13,7 @@
 
 
 <h1 align="center">
-  <b>VJ Botz</b>
+  <b>FB Bot</b>
 </h1>
 
 
